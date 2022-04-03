@@ -26,4 +26,7 @@ https://githowto.com/ru
 	cd c:/'Program Files'/OSPanel/domains/spektr/
 3. Переход из корня к каталогу stepik_auto_tests:
 	cd c:/Users/Андрей/Selenium/stepik_auto_tests/
-4.
+4. Положить локальные коммиты в удалённый репозиторий:
+	git push origin main
+5. Взять из удалённого репозитория изменения и перенести их на локальный:
+	git pull
