@@ -74,3 +74,6 @@ finally:
     
 # не забываем оставить пустую строку в конце файла
 # python lesson6_step4_1.py
+# cd 1_acquaintance_selenium\lesson_1_py
+# cd \Users\Андрей\Selenium\stepik_auto_tests
+# cd ..\..\

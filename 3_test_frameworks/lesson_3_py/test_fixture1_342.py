@@ -43,3 +43,7 @@ class TestMainPage2():
         self.browser.find_element_by_css_selector(".basket-mini .btn-group > a")
 
 # pytest -s test_fixture1_342.py
+
+# cd stepik_auto_tests\3_test_frameworks\lesson_3_py
+# cd \Users\Андрей\Selenium\stepik_auto_tests
+# cd ..\..\
